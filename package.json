@@ -1,0 +1,15 @@
+{
+  "name": "bertproxy",
+  "version": "1.0.0",
+  "description": "bert proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "bert.godon@pvgroup.be",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.17.0"
+  }
+}
